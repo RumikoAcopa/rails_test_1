@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Display 'Hello World!' in Browser
+2. Formalize using Rails convention
+3. Review MVC diagram for information flow
 
 Things you may want to cover:
 
